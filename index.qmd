@@ -148,6 +148,9 @@ Markdown.
 + Nash, Jayden
 + Orsini, Ronnie
 + Patel, Reesha
+    - Learn about the process between identifying a problem/question and using data science to find solutitons/get insights.
+    - Improve my knowledge of packages in Python (scikit-learn, seaborn).
+    - Apply what I've learned in my classes to actual, real-world datasets.
 + Patel, Vrajkumar
 + Sawyer, Riley
 + Sudarsanam, Shreya
